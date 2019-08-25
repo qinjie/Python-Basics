@@ -1,4 +1,4 @@
-# Readme
+# Python Basics
 
 1. Apply for an account at [https://py.kidswana.com](https://py.kidswana.com/)
 
