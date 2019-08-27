@@ -1,5 +1,17 @@
 # Python Basics
 
+
+
+nbgitpuller Link from GitHub to py.kidswana.com
+
+* https://tinyurl.com/python-basic-course
+
+Google Drive Folder
+
+* https://tinyurl.com/python-basic-folder
+
+
+
 1. Apply for an account at [https://py.kidswana.com](https://py.kidswana.com/)
 
 2. Go to link to pull GitHub repo to your account.
